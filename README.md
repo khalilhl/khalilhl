@@ -1,43 +1,47 @@
-# Welcome to Khalil's Portfolio
+# README.md
 
-![Khalil's Portfolio](https://img.shields.io/badge/portfolio-khalilhl/portfolio-blue?style=flat-square)
+## Welcome to My Portfolio
 
-## Introduction
-
-Hi! I'm Khalil, a 4th year Computer Science Engineer with a specialization in Full Stack JavaScript development. I am passionate about creating dynamic and user-centric web applications.
-
-## Professional Summary
-
-With over 2 years of freelancing experience, I have honed my skills in delivering quality software solutions. I am currently seeking clients, internships, and job opportunities to further my career and contribute to exciting projects.
-
-## Skills
-
-- **Front-End Technologies:** React, Next.js  
-- **Back-End Technologies:** Nest.js, Spring, Spring Boot  
-- **Languages:** TypeScript, JavaScript  
-- **Databases:** SQL, NoSQL  
-- **Other Technologies:** (add others as necessary)
-
-## Featured Projects
-
-- [Intone Freelance Marketplace Platform](https://github.com/29109489/Intone-Freelance-Marketplace-Platform.git)  
-- [Intone](https://github.com/khalilhl/intone.git)  
-- [TuniXplore Web](https://github.com/omarJ10/TuniXploreWeb.git)  
-- [SynergyPark MERN Stack](https://github.com/saber-barhoumi/SynergyPark-MERN-Stack.git)  
-
-## Experience
-
-- **lablabmena**: (Your role)  
-- **baladeya.tn**: (Your role)  
-- **Orange Digital Center**: (Your role)  
-
-## Contact/Connect
-
-Feel free to reach out to me on my social media or through email for any inquiries:
-- [LinkedIn](https://www.linkedin.com/in/khalilhl)  
-- [Twitter](https://twitter.com/khalilhl)  
-- Email: [khalilhl@example.com](mailto:khalilhl@example.com)
+Hello! I'm Khalil, a passionate Full Stack JavaScript Developer.
 
 ---
 
-Thank you for visiting my portfolio!
+## About Me
+
+I have a strong foundation in both front-end and back-end development. I love creating user-friendly web applications and engaging user experiences. My goal is to deliver high-quality solutions that meet the needs of both clients and users.
+
+---
+
+## Experience
+
+### Full Stack Developer | Company Name
+*Dates: YYYY-MM to Present*
+- Developed and maintained web applications using JavaScript frameworks such as React and Node.js.
+- Collaborated with design teams to create responsive and visually appealing user interfaces.
+- Implemented RESTful APIs and integrated third-party services.
+
+### Previous Role | Company Name
+*Dates: YYYY-MM to YYYY-MM*
+- Worked on various projects to deliver scalable and maintainable web solutions.
+
+---
+
+## Skills
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js
+- **Tools:** Git, Docker
+
+---
+
+## Projects
+- **Project 1:** Description and link
+- **Project 2:** Description and link
+
+---
+
+## Contact
+Feel free to connect with me on [LinkedIn](your_linkedin_profile) or email me at [your_email@example.com].
+
+---
+
+Thank you for visiting my portfolio! I look forward to connecting with you.
