@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile picture + name -->
-  <img src="https://avatars.githubusercontent.com/u/REPLACE_WITH_YOUR_ID?v=4 (https://avatars.githubusercontent.com/u/157057105?v=4)" width="180" style="border-radius:50%; border: 4px solid #00BFFF; box-shadow: 0 0 25px rgba(0,191,255,0.6);" alt="Khalil Hlila" />
+  <img src="https://avatars.githubusercontent.com/u/157057105?v=4 (https://avatars.githubusercontent.com/u/157057105?v=4)" width="180" style="border-radius:50%; border: 4px solid #00BFFF; box-shadow: 0 0 25px rgba(0,191,255,0.6);" alt="Khalil Hlila" />
   
   <h1>Hello 👋, I'm Khalil Hlila</h1>
   
